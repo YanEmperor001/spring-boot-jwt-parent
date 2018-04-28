@@ -1,0 +1,8 @@
+# spring-boot-jwt-parent
+springboot+mybatis+jwt实现登录验证
+
+# postman测试
+默认登录URL：http://localhost:8086/login
+
+#Authorization替换掉成功返回的token
+Authorization:eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJndW9mZW5nIiwiZXhwIjoxNTI0OTAyMDM3fQ.gLgUCU8E3A0bwxK195BMUFI4bVsdrOWsNrprrEmYkcczq7qhqxbtJsVy_O3IXprO-Li2Cs0vF74r-P1C8KPxHg
